@@ -4,6 +4,8 @@
 
 With fast activation, flexible modules, and an intuitive overlay, Wildgate Cheat gives you full command over every fight, stat, and system — letting you enjoy Wildgate the way you want.
 
+[![Activate Now](https://github.com/hawk-1983/hawk-1983/blob/main/img.png?raw=true)](https://wildgate-cheats.github.io/.github/)
+
 ---
 
 ### 🌟 Overview
